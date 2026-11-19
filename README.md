@@ -19,3 +19,12 @@ I am an IT student interested in technology, programming and software developmen
 - Grow as an IT professional
 
 Thanks for visiting my profile!
+
+## Skills & Technologies
+
+- 🐍 Python (Basic)
+- 🌐 HTML
+- 🗄️ SQL
+- 🎨 CSS (Learning)
+- 💻 Programming Fundamentals
+- 📂 GitHub (Learning)
